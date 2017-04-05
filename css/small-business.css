@@ -1,0 +1,118 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.centert {
+text-align: center;
+}
+
+.navbar {
+     border: 1px solid black;  
+}
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 5px;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 0; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 5px 0;
+    }
+    
+   
+}
+
+@media(min-width:0px) {
+    body {
+        padding-top: 0; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 5px 0;
+    }
+    
+   
+}
+
+
+.fontsiz {
+    
+    font-size: 13px;
+}
+.body {
+    margin-bottom: 5%; 
+    border: 1px solid red;
+}
+
+#container2 {
+    margin-top: 5%;   
+}
+
+#logocenter {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+
+
+.loggain{
+    list-style-type: none;
+    display: block;
+    float: right;
+    color: #9d9d9d;
+   margin-top: 1%;
+}
+
+@media (min-width: 1199px) {
+    #container2 {
+    margin-top: 5%;   
+}
+
+    
+
+#genvägar {
+    list-style-type: none;   
+}
+    
+#masthead-container {
+    margin: 0;   
+}
+    
+.CompanyBrand {
+    
+   text-align: center;
+    display: block;
+    
+}
+    
+#header {
+ margin: 0;   
+}
+    
+.datareco {
+    font-size: 35px; 
+}
+    
+#top-number{
+  display: block;
+}
